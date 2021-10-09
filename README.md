@@ -1,5 +1,5 @@
 # security-client-exercise
-For Udemy course - Security
+For ZTM course - Security
 
 Run in conjunction with security-server-exercise repo
 
